@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/meln1k
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://meln1k.github.io
+  * I am meln1k (https://keybase.io/meln1k) on keybase.
+  * I have a public key with fingerprint 805C 52A4 2F78 82CA 6CB2  2215 E69C 67B9 CBE7 711A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "805c52a42f7882ca6cb22215e69c67b9cbe7711a",
+            "host": "keybase.io",
+            "key_id": "e69c67b9cbe7711a",
+            "kid": "0101fbf80040cfe0f239df1531bd4ae8280c0ed64ccabbd847fa7024cc3333496e8f0a",
+            "uid": "a3267ef4570195905ec143c772ce8519",
+            "username": "meln1k"
+        },
+        "service": {
+            "hostname": "meln1k.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1429070702,
+    "expire_in": 157680000,
+    "prev": "f6c7a1f45f831b0e1bf91b44d6d6f2b4b3d47c033372852667a099e502c9107d",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIcAnicbVJbSBRRGF7tom1agY+lwVRkZXLOmcuZWYUCC19CS+xiWtvMmTPuuO7M
+uhdLtgUpKAqy2kKLQFCkzOwmmYQhXSQqfZEos6KyIKgIs3ooJO2M1UPQOQ+H//+/
+//vP9/H3p89wuZP2o12jGyaac5IGbhdEXZtXv7VinGbrdZwnxvnp9GOYViUNBUOm
+FeE8nAxEIiJVQAaWZURUiWgIIShSSSES1hSiUYwhVLkczmeHnQ5Go6lhmmvaLMcC
+r6mz7H/w/ukCgAAamiEDIABiUGAgXtENKPJQ0wWVykgGBFBdEghRNU2XBWyoGCAW
+8uwIikRlAzh00Wk6lUcSpoYgYgAVUQEiJVDgCcaIUFmEigMM05ClBihDB2i1Bf1c
+PIdjuVqTUMcAR8c/9dxKM+KLar8VBUN2xCZ2Nav6IpFg2ON0R+qCDnw31bx/iLya
+aenMSdZRS0Nh07Y4D2RIEjEdZiggBWB2UQ5H9wTNEPWaDkLEEnMCAGcOrWWUhkSw
+CpkeQ2aOAAo1Q4GaIOiSLhlIEzReFzABzAqMZBFJElaBolARIKJAgHXOkVZj2ZyH
+Z99UKxll2Ky01Eg0RLn4nVsVM11JbtfsWcnOLrjccxb83ZDgWMqk+H6iceFg68QP
+6WLPm5j79dBYadeVBwfo3owjA8G6rm0NBZk74lLJvXmThamLP7qXvSj1dg5vOVzU
+d6Y04E2taVlZ/3Kdb/jps2Y1LdFyaqTVfvJcKapbm3Hh+Ow9sfNtVY/4bx0n1+SN
+RPsWNen8zUPrs+K+z+eyprbuK+zP7r1U3le/6vT4l/yq4v7Ho90dy1Jf+X6mLR9s
+Lh+fmxD1ZG9X/qujOHataGlPyd3ug23HvC8SyZeXuD7M/57fU7HpRm9ZY3l76aHP
+2fcrcqdSvu4szgzknb3a8C69MyVLT7S1Dy1fuTEmdZyINvXsD5T7G9Pi20sS8x42
+XV/ROVnsp5+4sl+YNSn/
+=eDTc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/meln1k
+
+==================================================================
